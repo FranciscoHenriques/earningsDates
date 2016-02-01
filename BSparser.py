@@ -1,5 +1,5 @@
 from BeautifulSoup import BeautifulSoup
-from datetime import datetime
+#from datetime import datetime
 
 def parseDocument(doc):
 	return BeautifulSoup(doc)
